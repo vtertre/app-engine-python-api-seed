@@ -1,0 +1,4 @@
+Flask==0.10.1
+Flask-Injector==0.6.2
+Flask-RESTful==0.3.5
+-e git+https://github.com/ze-phyr-us/linkenv.git#egg=linkenv
